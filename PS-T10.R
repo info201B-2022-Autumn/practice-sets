@@ -56,7 +56,6 @@ t05 <- c(1,2,3,4)
 #' @code
 t06 <- t05 * 2 # c(2 4 6 8)
 #' @end
-#' @id ?
 
 #' @id -
 #' @msg Select items from the vector
