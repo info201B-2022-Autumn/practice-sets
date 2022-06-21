@@ -64,9 +64,7 @@ t07 <- t06[t06 > 4] # c(6 8)
 #' @end
 
 #' @id -
-#' @msg Functions
-
-#' #' @msg Select items from the vector
+#' @msg Select items from the vector
 #' @code
 t07 <- t06[t06 > 4] # c(6 8)
 #' @end
